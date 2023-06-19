@@ -7,7 +7,3 @@ The solutions for all easy, medium problems on LeetCode with helpful Resources &
 - Happy Coding 🥳!
 
 
-### Problems
-| Problem | Solution | Difficulty |
-|--|--|--|
-| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution](https://github.com/CodeWithPriyank/leetcode_solutions/blob/main/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy |
