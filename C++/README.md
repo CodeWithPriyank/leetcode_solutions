@@ -5,3 +5,9 @@ The solutions for all easy, medium problems on LeetCode with helpful Resources &
 - If you feel this repo is helpful for you, please do star it.
 - Follow me on [LinkedIn](https://www.linkedin.com/in/priyank-goswami-711495247)
 - Happy Coding 🥳!
+
+
+## Problems
+| Problem | Solution | Difficulty |
+|--|--|--|
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](https://github.com/CodeWithPriyank/leetcode_solutions/blob/main/C%2B%2B/54.%20Spiral%20Matrix.cpp) | Easy |
