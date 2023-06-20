@@ -11,4 +11,4 @@ The solutions for all easy, medium problems on LeetCode with helpful Resources &
 | Problem | Solution | Difficulty |
 |--|--|--|
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution](https://github.com/CodeWithPriyank/leetcode_solutions/blob/main/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy |
-
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/CodeWithPriyank/leetcode_solutions/blob/main/Java%20/1.%20Two%20Sum.java) | Easy |
