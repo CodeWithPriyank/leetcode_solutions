@@ -20,6 +20,7 @@ The solutions for all easy, medium problems on LeetCode with helpful Resources &
 | [342. Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Solution](https://github.com/CodeWithPriyank/leetcode_solutions/blob/main/C%2B%2B/342.%20Power%20of%20Four.cpp) | Easy |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Solution](https://github.com/CodeWithPriyank/leetcode_solutions/blob/main/C%2B%2B/509.%20Fibonacci%20Number.cpp) | Easy |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/CodeWithPriyank/leetcode_solutions/blob/main/C%2B%2B/7.%20Reverse%20Integer.cpp) | Medium |
-
-
+| [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/?envType=list&envId=rnyc8k7j) | [Solution](https://github.com/CodeWithPriyank/leetcode_solutions/blob/main/C%2B%2B/442.%20Find%20All%20Duplicates%20in%20an%20Array.cpp) | Medium |
+|[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/?envType=list&envId=rnyc8k7j) | [Solution](https://github.com/CodeWithPriyank/leetcode_solutions/blob/main/C%2B%2B/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp) | Medium |
+| [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/?envType=list&envId=rnyc8k7j) | [Solution](https://github.com/CodeWithPriyank/leetcode_solutions/blob/main/C%2B%2B/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp) | Medium |
 
